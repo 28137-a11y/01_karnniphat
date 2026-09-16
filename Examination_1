@@ -6,5 +6,5 @@
 
 # เขียนโค้ดต่อจากนี้
 name = (input("ข้อความ 1 บรรทัด (ชื่อ) : "))
-print("Hello,",name)
+print("Hello, ",name)
 
